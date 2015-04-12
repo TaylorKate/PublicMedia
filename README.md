@@ -65,8 +65,6 @@ Anyone can add to this list. To add to the list,
 ### Podcasts
 * [Podcast Generator](http://podcastgen.sourceforge.net) - an open source podcast generator
 
-* 
-
 ## Storytelling
 
 # Pledge 
@@ -76,8 +74,8 @@ Anyone can add to this list. To add to the list,
 
 ##Handbooks and manuals 
 * [2003 Handbook on Social Media from Swedish Public Radio](http://sverigesradio.se/press/bilder/swedishradio2013_socmed.pdf) (pdf)
-
-
+* [BBC Style guide - searchable] (http://www.bbc.co.uk/academy/journalism/news-style-guide/article/art20131010112740749)
+* 
 # Projects 
 
 # Repos
